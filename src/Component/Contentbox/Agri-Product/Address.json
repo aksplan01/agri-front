@@ -1,0 +1,42 @@
+[
+    {
+        "Office" : "Soil Testing Laboratory",
+        "Address" : "Panchupettai",
+        "District" : "Kanchipuram -631 502"
+    },
+    {
+        "Office" : "Soil Testing Laboratory",
+        "Address" : "Gudiyatham TK , Melalathu 638 806",
+        "District" : "Vellore Dt"
+    },
+    {
+        "Office" : "Soil Testing Laboratory",
+        "Address" : "Taluk office Compound",
+        "District": "Dharmapuri – 638 702"
+    },
+    {
+        "Office" : "Soil Testing Laboratory",
+        "Address" : "35/37, B 11 Cross Rajaram Nagar, Near vaniyakala kalyana mandapam",
+        "District": "Salem – 636 007"
+    },
+    {
+        "Office" : "மண் பரிசோதனை ஆய்வகம்",
+        "Address" : "குடியாதம் டி.கே., மெல்லத்து 638 806",
+        "District":"வேலூர்"
+    },
+    {
+        "Office" :"மண் பரிசோதனை ஆய்வகம்",
+        "Address" : "தாலுகா அலுவலகம் அருகில்",
+        "District": "தர்மபுரி - 638 702"
+    },
+    {
+        "Office" : "மண் பரிசோதனை ஆய்வகம்",
+        "Address" : "பஞ்சுபேட்டை",
+        "District":"காஞ்சிபுரம் -631 502"
+    },
+    {
+        "Office" :"மண் பரிசோதனை ஆய்வகம்",
+        "Address" : "35/37,\n பி 11 கிராஸ் ராஜராம் நகர், \nவனியா கல்யாண மண்டபத்திற்கு அருகில்",
+        "District" : "சேலம் - 636 007"
+    }
+]
